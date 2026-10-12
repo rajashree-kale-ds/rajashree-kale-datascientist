@@ -7,16 +7,24 @@ I am a B.Sc Computer Science graduate and an aspiring Data Scientist.
 
 ## Learning Goals
 -Learn Python programming
+
 -Improve SQL skills
+
 -Learn Data Analytics
+
 -Create Power BI dashboards
+
 -Understand Machine Learning
 
 ## Tools to Master
 -Python
+
 -MySQL
+
 -Microsoft Excel
+
 -Power BI
+
 -Git and GitHub
 
 ## Business Problem to Solve
